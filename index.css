@@ -15,7 +15,7 @@ button{
     padding: 15px;
     font-size: 15px;
     background: transparent;
-    border: none;
+    /* border: none; */
 }
 
 .main{
